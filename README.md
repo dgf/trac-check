@@ -1,4 +1,4 @@
 trac-check
 ==========
 
-check commit hook
+github trac webhook https://trac.deepamehta.de/github/trac-check
